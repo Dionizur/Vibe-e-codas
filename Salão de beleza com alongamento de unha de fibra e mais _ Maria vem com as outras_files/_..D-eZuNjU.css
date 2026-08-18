@@ -1,0 +1,34 @@
+:root {
+  /* Paleta Elegante para Estética/Unhas */
+  --color-primary: #c99365;
+  --color-primary-hover: #b07d53;
+  --color-primary-light: #fbf5ef;
+  --color-gold-accent: #e5b98b;
+
+  --color-dark: #1e1b18;
+  --color-text-main: #383431;
+  --color-text-muted: #79716b;
+  
+  --color-bg-body: #faf7f4;
+  --color-bg-surface: #ffffff;
+  --color-bg-alt: #f4ede6;
+  --color-border: #ede4dc;
+
+  --color-whatsapp: #25d366;
+  --color-whatsapp-hover: #1ebd5a;
+
+  /* Tipografia */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  /* Formas & Efeitos */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-pill: 9999px;
+
+  --shadow-sm: 0 4px 12px rgba(140, 115, 95, 0.06);
+  --shadow-card: 0 10px 30px rgba(140, 115, 95, 0.08);
+  --shadow-hover: 0 16px 36px rgba(140, 115, 95, 0.16);
+
+  --transition-default: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
